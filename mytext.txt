@@ -1,0 +1,6 @@
+ts-node app.ts --> to run ts file in
+
+MongoDb User Name : 200120107037;
+Password : kjmzRBVzdBwLTZoO
+
+mongodb+srv://200120107037:<db_password>@cluster0.8ww0i.mongodb.net/
